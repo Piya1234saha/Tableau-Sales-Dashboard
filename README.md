@@ -9,7 +9,7 @@ Present the data for each KPI on monthly basis for current year and previous yea
 Indentify the highest and lowest sales.
 
 ### Product Subcategory comparision-
-Compare sales performance by different product of subcategories for current and previous year.  
+Compare sales performance by different product of subcategories for current and previous year.   
 Comparision of sales and profit.
 
 ### Weekly Trend for sales and profit-
