@@ -16,5 +16,6 @@ Comparision of sales and profit.
 Present weekly sales and profit for current year.
 Highlight weeks are that above and below to sales and profit performance.
 
-
+Link to dashboard : 
+https://lnkd.in/gV7GfqJ3
 
